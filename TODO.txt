@@ -1,0 +1,7 @@
+
+
+POMYSLY
+-------
+
+- zdjęcia wyświetlane jedno po drugim pionowo. Przyciski góra/dół przeskakujący pomiędzy zdjęciami.
+    Podobnie jak będzie się to odbywać pomiędzy stronami. (Przykład strony która posiada tą funkcjonalność http://www.fashionphotographer.it/fashion_photography.html)
