@@ -1,0 +1,100 @@
+body {
+  padding: 0;
+}
+
+h1, h2 {
+
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.navbar .container {
+    width: 940px;
+}
+
+.navbar-inner {
+  box-shadow: none;
+  min-height: 90px;
+  background-color: #fff;
+  background-image: none;
+}
+
+.brand {
+    background-image: url(img/robert-raszczynski.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-indent: -999999px;
+    width: 500px;
+    height: 90px;
+}
+
+.navbar .nav {
+  float: right;
+}
+
+.navbar .nav > li > a {
+  float: none;
+  padding: 70px 10px 11px;
+  line-height: 19px;
+  color: #666;
+  text-decoration: none;
+  text-shadow: none;
+  font-size: 1.1em;
+
+}
+
+.navbar .nav .active > a:hover,
+.navbar .nav > li > a:hover {
+  color: #f1f1f1;
+  text-decoration: none;
+  background-color: #444;
+}
+
+.navbar .nav .active > a {
+  color: #666;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.content, .content-wide {
+  padding: 1.6em 0;
+}
+
+.content {
+  margin: 2em auto;
+}
+
+.content-wide {
+  width: 100%;
+  background-color: #fafafa;
+  border-top: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+footer {
+  padding-bottom: 30px;
+}
+
+footer h2 {
+  border-top: 1px solid #E5E5E5;
+}
+
+#portfolio-slider {
+  text-align: center;
+}
+
+.carousel {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.copyrights {
+  margin-top: 2em;
+  padding: 1em 0;
+  font-size: 0.85em;
+  text-align: center;
+  color: #666;
+  line-height: 1em;
+  border-top: 1px solid #E5E5E5;
+}
+

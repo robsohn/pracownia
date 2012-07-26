@@ -5,3 +5,20 @@ POMYSLY
 
 - zdjęcia wyświetlane jedno po drugim pionowo. Przyciski góra/dół przeskakujący pomiędzy zdjęciami.
     Podobnie jak będzie się to odbywać pomiędzy stronami. (Przykład strony która posiada tą funkcjonalność http://www.fashionphotographer.it/fashion_photography.html)
+- Uzyć Featured Posts z carusel. Pomysl na alienship bootstrap
+
+
+Wydaje mi się, że trzeba zacząć od czystego białego layoutu, a kontent oddzielić podobnie jak jest tutaj http://logobro.com/
+Wykorzystac tą kolorystyke  https://kippt.com/
+
+
+Przykladowe strony
+http://giftsmatic.com/new
+http://www.stefancrain.com/ - przyklad jednej strony z kilkoma tlami. Dodatkowo koles na pierwszej stronie ma dwa ostatnie wpisy bloga, podoba mi sie umieszczenie daty, kategorii z lewej strony
+https://dotvita.com/ - interesujaca stopka - kolorystycznie bedzie pasowac
+http://www.ssdnodes.com/ - podoba mi sie stopka i tekst do Socialize
+http://logobro.com/ - sposob na oddzielenie kontentu
+
+
+WORDPRESS THEME
+http://www.siteground.com/tutorials/wordpress/wordpress_create_theme.htm
